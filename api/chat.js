@@ -44,7 +44,7 @@
   43 │ 
   44 │   try {
   45 │     const response = await fetch(
-  46 │       `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
+  46 │       `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=AQ.Ab8RN6IR4N04Uy-KQWUb1rZyWnFLL0HrHClNd3OxUBxJt9-P7g`,
   47 │       {
   48 │         method: 'POST',
   49 │         headers: { 'Content-Type': 'application/json' },
